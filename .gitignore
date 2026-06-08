@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Large video/data files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.ts
+
+# Raw CCTV records
+record/
+records/
+
+# YOLO outputs
+runs/
+output/
+outputs/
+results/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
